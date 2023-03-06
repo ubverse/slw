@@ -1,12 +1,12 @@
 {
   "name": "@ubverse/slw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ubverse/tslibt.git"
+    "url": "git@github.com:ubverse/slw.git"
   },
   "scripts": {
     "build": "tsc",
